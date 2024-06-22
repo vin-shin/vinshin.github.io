@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello, I am Vin Shin, an undergraduate at University of California, Santa Barbara (UCSB) studying electrical engineering, B.S. 
+
+I am an avid electronics enthusiast, working with robotics and PCB design. I am interested in pursuing a PhD in focuses of semiconductors/photonics.
+
+I am currently seeking research opportunities in related fields of EE.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Semiconductors & Photonics** transistors, metamaterials, silicon photonics, high speed/frequency
+- **Robotics** computer vision, control systems, machine learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jun. 2024]** Seeking research opportunities in fields of photonics and semiconductors.
 
 {% include_relative _includes/publications.md %}
 
