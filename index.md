@@ -43,5 +43,5 @@ However, I don’t intend on stopping what I have begun. Just because I have got
 
 On another note, semiconductors and photonics have caught my eye recently. In the past 5 years, I have only focused on robotics because robots are cool, but I think S&P is cooler. I would love to do some research in this topic (quantum photonics, nanophotonics) and hopefully take some classes on this topic as it highly intrigues me!
 
-On a second note, I think I’ll apply for a credit card. Thanks for reading!
+On a second note, I think I’ll apply for a credit card.
  
