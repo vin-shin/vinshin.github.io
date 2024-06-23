@@ -29,3 +29,6 @@ I am currently seeking research opportunities in related fields of EE.
 
 {% include_relative _includes/services.md %}
 
+## Fun Stuff
+
+
