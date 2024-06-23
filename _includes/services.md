@@ -31,6 +31,6 @@
 
 <ul style="margin:0 0 5px;">
  <li><autocolor>Designed an Arduino car with 6 ultrasonic sensors to create an pathfinding algorithm.</autocolor></li>
-  <li><autocolor>Capable of pathfinding 20 meters with 2% collision rate.</autocolor></li>
+  <li><autocolor>Capable of pathfinding ~20 meters with ~2% collision rate.</autocolor></li>
   <li><autocolor>Used ESP-32, ultrasonic sensors, DC motors, H-Bridge driver, 3D printing.</autocolor></li>
 </ul>
