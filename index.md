@@ -27,7 +27,7 @@ This is a page to show everything that I have done academically, professionally,
 - **[May. 2024]** Committed to UC Santa Barbara for B.S. Electrical Engineering.
 - **[Jan. 2024]** Ended internship at Arcadia Tractor Corporation after 1 year.
 
-{% include_relative _includes/publications.md %}
+
 
 {% include_relative _includes/services.md %}
 
