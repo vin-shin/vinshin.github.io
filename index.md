@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, I am Vin Shin, an undergraduate at University of California, Santa Barbara (UCSB) studying electrical engineering, B.S. 
+Hello, I am Vin Shin, an undergraduate freshman at University of California, Santa Barbara (UCSB) studying electrical engineering, B.S. 
 
 I am an avid electronics enthusiast, working with robotics, PCB design, and (hopefully) semiconductor design. I am interested in pursuing a PhD in focuses of semiconductors/photonics.
 
@@ -18,7 +18,7 @@ I am currently seeking research opportunities in related fields of EE.
 ## Links
 
 <ul style="margin:0 0 5px;">
- <li><a href="./assets/files/VinShinRes.pdf"><autocolor>Resume</autocolor></a></li>
+ <li><a href="./assets/files/VSRjun2024.pdf.pdf"><autocolor>Resume</autocolor></a></li>
 </ul>
 
 ## Updates
