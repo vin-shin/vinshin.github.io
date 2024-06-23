@@ -17,7 +17,6 @@
 
 </ul>
 
-</ul>
 <h4 style="margin:0 10px 0;">Mechanical Integrator</h4>
 
 <ul style="margin:0 0 5px;">
@@ -26,7 +25,6 @@
 
 </ul>
 
-</ul>
 <h4 style="margin:0 10px 0;">Path Algorithm from distance-to-wall sensors</h4>
 
 <ul style="margin:0 0 5px;">
