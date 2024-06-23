@@ -33,7 +33,7 @@ This is a page to show everything that I have done academically, professionally,
 
 ## Fun Stuff
 
-06.23.24
+**[06.23.24]**
 It's my 18th birthday! Was it anything special? No. However, I'm going to take the opportunity/excuse to write here my wishes and hopes for the future. 
 
 My entire life, I was dead-set on becoming an engineer. It didn't matter if I wanted to get into mechanical, chemical, civil, or some other subtype; I always wanted to make something. After what seems to be many years of character growth, an amount of sweat and tears poured, and hours of solder fumes inhaled, I finally get into a school for engineering. This is it. This is what I have been waiting for. 
