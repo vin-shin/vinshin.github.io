@@ -34,6 +34,7 @@ This is a page to show everything that I have done academically, professionally,
 ## Fun Stuff
 
 **[06.23.24]**
+
 It's my 18th birthday! Was it anything special? No. However, I'm going to take the opportunity/excuse to write here my wishes and hopes for the future. 
 
 My entire life, I was dead-set on becoming an engineer. It didn't matter if I wanted to get into mechanical, chemical, civil, or some other subtype; I always wanted to make something. After what seems to be many years of character growth, an amount of sweat and tears poured, and hours of solder fumes inhaled, I finally get into a school for engineering. This is it. This is what I have been waiting for. 
@@ -42,5 +43,5 @@ However, I don’t intend on stopping what I have begun. Just because I have got
 
 On another note, semiconductors and photonics have caught my eye recently. In the past 5 years, I have only focused on robotics because robots are cool, but I think S&P is cooler. I would love to do some research in this topic (quantum photonics, nanophotonics) and hopefully take some classes on this topic as it highly intrigues me!
 
-On a second note, I think I’ll apply for a credit card.
+On a second note, I think I’ll apply for a credit card. Thanks for reading!
  
