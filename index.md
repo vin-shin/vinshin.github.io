@@ -18,7 +18,7 @@ This is a page to show everything that I have done academically, professionally,
 ## Links
 
 <ul style="margin:0 0 5px;">
- <li><a href="./assets/files/VSRjun2024.pdf.pdf"><autocolor>Resume</autocolor></a></li>
+ <li><a href="./assets/files/VSRjun2024.pdf"><autocolor>Resume</autocolor></a></li>
 </ul>
 
 ## Updates
