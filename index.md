@@ -15,7 +15,13 @@ I am currently seeking research opportunities in related fields of EE.
 - **Semiconductors & Photonics** transistors, metamaterials, silicon photonics, high speed/frequency
 - **Robotics** computer vision, control systems, machine learning
 
-## News
+## Links
+
+<ul style="margin:0 0 5px;">
+ <li><a href="./assets/files/VinShinRes.pdf"><autocolor>Resume</autocolor></a></li>
+</ul>
+
+## Updates
 
 - **[Jun. 2024]** Seeking research opportunities in fields of photonics and semiconductors.
 
