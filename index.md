@@ -4,15 +4,14 @@ layout: homepage
 
 ## About Me
 
-Hello, I am Vin Shin, an undergraduate freshman at University of California, Santa Barbara (UCSB) studying electrical engineering, B.S. 
+Hello, I am Vin Shin, an undergraduate at University of California, Santa Barbara (UCSB) studying electrical engineering. 
 
-I am an avid electronics enthusiast, working with robotics, PCB design, and (hopefully) semiconductor design. I am interested in pursuing a PhD in focuses of semiconductors/photonics.
-
-This is a page to show everything that I have done academically, professionally, and also introduce who I am as a person.
+I am an avid electronics enthusiast, working with robotics and PCB design. I am interested in pursuing a PhD with a general focus in nanotechnology.
 
 ## Research Interests
 
-- **Semiconductors & Photonics** transistors, metamaterials, silicon photonics, high speed/frequency
+- **Nanotechnology** NEMs, metamaterials
+- **Semiconductors** transistors, high speed/frequency, MEMs
 - **Robotics** computer vision, control systems, machine learning
 
 ## Links
@@ -23,7 +22,7 @@ This is a page to show everything that I have done academically, professionally,
 
 ## Updates
 
-- **[Jun. 2024]** Seeking research opportunities in fields of photonics and semiconductors.
+- **[Jun. 2024]** Seeking research/internship opportunities.
 - **[May. 2024]** Committed to UC Santa Barbara for B.S. Electrical Engineering.
 - **[Jan. 2024]** Ended internship at Arcadia Tractor Corporation after 1 year.
 
