@@ -17,14 +17,14 @@ I am an avid electronics enthusiast, working with robotics and PCB design. I am 
 ## Links
 
 <ul style="margin:0 0 5px;">
- <li><a href="./assets/files/VSRjun2024.pdf"><autocolor>Resume</autocolor></a></li>
+ <li><a href="./assets/files/VSRsep2024.pdf"><autocolor>Resume</autocolor></a></li>
 </ul>
 
-## Updates
+## Activity
 
-- **[Jun. 2024]** Seeking research/internship opportunities.
-- **[May. 2024]** Committed to UC Santa Barbara for B.S. Electrical Engineering.
-- **[Jan. 2024]** Ended internship at Arcadia Tractor Corporation after 1 year.
+- **[Sep. 2024]** Actively pursuing research opportunities.
+- **[Aug. 2024]** Started at UCSB for B.S. Electrical Engineering.
+- **[Jul. 2024]** Joined Gaucho Racing under Electronics Team.
 
 
 
