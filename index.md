@@ -21,7 +21,7 @@ I am an avid electronics enthusiast and can work in robotics and PCB design. I a
 
 ## Activity
 
-- **[Oct. 2024]** Working as research assistant under Kyle Lee at OPUS Lab.
+- **[Oct. 2024]** Working as research assistant at a UCSB ECE Lab.
 - **[Aug. 2024]** Started at UCSB for B.S. Electrical Engineering.
 - **[Jul. 2024]** Joined Gaucho Racing under Electronics Team.
 
