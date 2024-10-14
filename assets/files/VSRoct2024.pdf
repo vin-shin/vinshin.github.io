@@ -1,0 +1,223 @@
+%-------------------------
+% Resume in Latex
+% Author : Matty
+% Based on: https://github.com/jakegut/resume (which was itself based on https://github.com/sb2nov/resume)
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{fontawesome5}
+
+\input{glyphtounicode}
+
+% -------------------- FONT OPTIONS --------------------
+% sans-serif
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% serif
+% \usepackage{charter}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-1in} % Default was -.5in
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting
+\titleformat{\section}{
+  \vspace{-5pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Subsection formatting
+\titleformat{\subsection}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{\hspace{-.15in}}{0em}{}[\color{black}\vspace{-8pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+% -------------------- CUSTOM COMMANDS --------------------
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\setlength{\footskip}{4.08003pt}
+
+% -------------------- START OF DOCUMENT --------------------
+\begin{document}
+
+% -------------------- HEADING--------------------
+\begin{flushright}
+  % \vspace{-4pt}
+  \color{gray}
+  \item
+\end{flushright}
+
+\vspace{-5pt}
+
+\begin{center}
+    \textbf{\Huge \scshape Vin Shin} \\ \vspace{8pt}
+    \small 
+    \faIcon{code}
+    \href{https://shin.vin}
+    {\underline{shin.vin}} $  $
+    \faIcon{linkedin}
+    \href{https://linkedin.com/in/vinshin623}{\underline{linkedin.com/in/vinshin623}} $  $
+    \faIcon{envelope}
+    \href{mailto:vinshin623@gmail.com}
+    {\underline{vinshin623@gmail.com}}
+\end{center}
+
+% -------------------- EDUCATION --------------------
+\section{Education}
+  \resumeSubHeadingListStart
+  
+    \resumeSubheading
+      {University of California, Santa Barbara}{June 2028}
+      {B.S. Electrical Engineering}{GPA: 4.00}
+
+
+    \vspace{-10pt}
+
+    \subsection{Coursework}
+      \textbf{Courses:} Physics C: Mechanics, Physics C: E\&M, Calculus 2, Linear Algebra, Differential Equations \\
+  
+
+  \resumeSubHeadingListEnd
+
+% -------------------- SKILLS --------------------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+    
+     \textbf{Technologies}{: CAD (Fusion, Inventor Professional), Circuit Design (KiCAD, Fusion), Version control (Git), Microcontrollers (ATmega328, STM32, ARM Cortex-M), Raspberry Pi, Jetson Nano} \\
+     \textbf{Tools}{: 3D Printing (Prusaslicer, Bambu Studio), CNC (Tormach), Laser-Cutting (UCP)}\\
+     \textbf{Languages}{: C/C++, Python, MATLAB, Java, JavaScript/TypeScript, HTML/CSS, \LaTeX} \\     
+     % \textbf{Frameworks}{: React, Node.js, Flask, JUnit, WordPress, Material-UI, FastAPI} \\
+     
+      \textbf{Libraries}{: pandas, NumPy, Matplotlib, PyTorch}
+     
+    }}
+ \end{itemize}
+
+% -------------------- PROFESSIONAL EXPERIENCE --------------------
+\section{Professional Experience}
+    \resumeSubHeadingListStart
+
+ 	\resumeProjectHeading
+        {\textbf{Engineering Intern} $|$ \textbf{Arcadia Tractor Corporation} $|$ San Jose, CA}{Nov. 2022 - Jan. 2024}
+        \resumeItemListStart
+            \resumeItem{Improved ball-collection performance by an estimated 20\% by designing a compact ball collection hopper with Fusion.}
+            \resumeItem{Developed an automatic recharging circuit independent of tractor communication, allowing full autonomy utilizing KiCAD, Arduino, and linear motor actuators.}
+            \resumeItem{Prototyped ball-deflectors, reducing damage-costs subsequent tractor operation with Fusion and design iteration.}
+            \resumeItem{Monitored autonomous behaviors and managed data collection of prototype tractor.}
+          \resumeItemListEnd
+
+
+        \resumeProjectHeading
+        {\textbf{Lead PCB Designer} $|$ \textbf{Nize Systems} $|$ Pleasanton, CA}{Feb. 2023 - Apr. 2024}
+        \resumeItemListStart
+            \resumeItem{Designed and constructed a bridge PCB connector between RFID RC522 and Arduino Nano, decreasing production times by an estimated 50\% utilizing KiCAD.}
+            \resumeItem{Designed scanner PCBs utilizing ESP-32 and ATmega architectures, RGB lighting, RFID \& NFC modules.}
+            \resumeItem{Consulted for engineering interns planning microcontroller system designs.}
+          \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+
+% -------------------- Projects --------------------
+\section{Projects}
+  \resumeSubHeadingListStart
+
+	\resumeProjectHeading
+          {\textbf{Autonomous Shopping Cart} $|$ \footnotesize\emph{PLTW CTE Presentation}\vspace{8pt}}{Feb. 2024}
+           \resumeItemListStart
+           \resumeItem{Utilized brushless hub motors, hall effects, RC \& PWM communications, Raspberry Pi, LiDAR, cameras, and ROS to construct a remote control shopping cart}
+	 \resumeItem{Improved safety and storage capabilities (rated to move at 25 mph max, and up to 300 pounds of load).}
+	\resumeItem{Showcased to 300 people and rpesented in a conference for technological mobility.}
+          \resumeItemListEnd
+
+          \resumeProjectHeading
+          {\textbf{Project Bonsai} $|$ \footnotesize\emph{Trash Collection Rover}\vspace{8pt}}{Jun. 2024}
+           \resumeItemListStart
+           \resumeItem{Designed a multipurpose rover with Raspberry Pi, Dynamixel Motors, LiDAR, and ROS capable of detecting and manipulating, storing, and clearing trash.}
+	 \resumeItem{Implemented map scanning and localization through SLAM, ensuring optimal traversal and collection efficiency.}
+	\resumeItem{Capable of scanning and clearing rooms (100 sq ft) in ~3 minutes.}
+          \resumeItemListEnd
+
+
+   \resumeSubHeadingListEnd
+% -------------------- LEADERSHIP --------------------
+ \section{Leadership Experience}
+     \resumeSubHeadingListStart         
+         
+ \resumeProjectHeading
+          {\textbf{Director $|$ Mechanicon Hacks $|$ Foothill High School}\vspace{8pt}}{Nov. 2023}
+          \resumeItemListStart
+          \resumeItem{Led and managed a team of students to organize an engineering competition for grades 6-12.}
+	\resumeItem{Hosted events (structure-stress under load through simulated earthquakes and multi-terrain vehicle track).}
+	\resumeItem{Raised over 2k+ from various sponsors (Wolfram Alpha).}
+	\resumeItemListEnd
+
+
+          
+    \resumeSubHeadingListEnd 
+
+\end{document}

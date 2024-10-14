@@ -16,7 +16,7 @@ I am an avid electronics enthusiast and can work in robotics and PCB design. I a
 ## Links
 
 <ul style="margin:0 0 5px;">
- <li><a href="./assets/files/VSRsep2024.pdf"><autocolor>Resume</autocolor></a></li>
+ <li><a href="./assets/files/VSRoct2024.pdf"><autocolor>Resume</autocolor></a></li>
 </ul>
 
 ## Activity
