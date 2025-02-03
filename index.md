@@ -16,14 +16,13 @@ I am an avid electronics enthusiast and can work in robotics and PCB design. I a
 ## Links
 
 <ul style="margin:0 0 5px;">
- <li><a href="./assets/files/VSRnov2024.pdf"><autocolor>Resume</autocolor></a></li>
+ <li><a href="./assets/files/VSRfeb2025.pdf"><autocolor>Resume</autocolor></a></li>
 </ul>
 
 ## Activity
 
-- **[Oct. 2024]** Working as research assistant at a UCSB ECE Lab.
 - **[Aug. 2024]** Started at UCSB for B.S. Electrical Engineering.
-- **[Jul. 2024]** Joined Gaucho Racing under Electronics Team.
+- **[Jul. 2024]** Joined Gaucho Racing under Electronics & Data Team.
 
 
 
