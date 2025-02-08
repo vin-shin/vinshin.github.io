@@ -17,7 +17,7 @@ I am an avid electronics enthusiast and am highly interested in pursuing a caree
 ## Links
 
 <ul style="margin:0 0 5px;">
- <li><a href="./assets/files/VSRfeb2025.pdf"><autocolor>Resume</autocolor></a></li>
+ <li><a href="./assets/files/resumefeb25.pdf"><autocolor>Resume</autocolor></a></li>
 </ul>
 
 ## Activity
