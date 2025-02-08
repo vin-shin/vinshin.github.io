@@ -6,12 +6,13 @@ layout: homepage
 
 Hello, I am Vin Shin, an undergraduate at University of California, Santa Barbara (UCSB) studying electrical engineering. 
 
-I am an avid electronics enthusiast and can work in robotics and PCB design. I am interested in pursuing a PhD in an interesting field!
+I am an avid electronics enthusiast and am highly interested in pursuing a career in integrated circuits and power electronics. I am currently a member of the Electronics & Data Team at Gaucho Racing, a student-led organization that designs and builds an electric race-car to compete in the Formula SAE Electric competition.
 
-## Research Interests
+## Career Interests
 
-- **Probabilistic Computing** Machine Learning, Ising machines
-- **Robotics** computer vision, control systems, machine learning
+- **Integrated Circuits**
+- **Power Electronics**
+- **Semiconductors**
 
 ## Links
 
@@ -22,7 +23,7 @@ I am an avid electronics enthusiast and can work in robotics and PCB design. I a
 ## Activity
 
 - **[Aug. 2024]** Started at UCSB for B.S. Electrical Engineering.
-- **[Jul. 2024]** Joined Gaucho Racing under Electronics & Data Team.
+- **[Jul. 2024]** Joined Gaucho Racing under Electronics Team.
 
 
 
